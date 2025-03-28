@@ -5,9 +5,9 @@ import React from 'react'
 import { Tarjeta } from './Tarjeta'
 
 // Importamos las imagenes
-import MarioImage from './imagenes/Mario.png'
-import LuigiImage from './imagenes/Luigi.png'
-import PeachesImage from './imagenes/Peaches.png'
+import MarioImage from './imagenes/._Mario.png'
+import LuigiImage from './imagenes/._Luigi.png'
+import PeachesImage from './imagenes/._Peaches.png'
 
 export function App() {
   return (
